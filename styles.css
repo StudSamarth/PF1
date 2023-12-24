@@ -102,12 +102,16 @@ h5{
     font-size: 1.700rem;
     color: #183D3D;
 }
-@media (max-width: 300px ) {
+@media (max-width: 500px ) {
     #girl{
+        display: flex;
         position: absolute;
         left: 200px;
         top: 1545px;
         height: 300px;
+    }
+    .character{
+        height: 250px;
     }
     
 }
