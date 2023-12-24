@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 150%;
+    
+}
+
+h1{
+    margin-top: 50px auto 0px auto;
+    font-family: 'Martian Mono', monospace;
+    font-size: 3.815rem;
+    color: #45FFCA;
+    line-height: 1;
+    
+}
+
+h2{
+    color: #5C5470;
+}
+h3{
+    color: #183D3D;
+    text-align: left;
+}
+
+h4{
+    font-family: 'Gabarito', cursive;
+    font-size: 2.500rem;
+    color: #94A684;
+    font-weight: normal;
+}
+
+p{
+    font-family: 'Gabarito', cursive;
+    margin-bottom: 0px;
+    
+}
+
+.Top-container{
+    background-color: blueviolet;
+    position: relative;
+    padding-top: 150px;
+}
+.middle-container{
+    background-color: #F5FCCD;
+    
+}
+.bottom-container{
+    background-color: aqua;
+    height: 60%;
+    width: 100%;
+
+    
+}
+.skill-row{
+    width: 60%;
+    margin: 100px auto 210px auto;
+    text-align: left;
+    line-height: 2;
+}
+.top-cloud{
+    position: absolute;
+    right: 350px;
+    top: 100px;
+}
+
+.bottom-cloud{
+    position:absolute;
+    top: 230px;
+    left: 250px;
+}
+.footer-link{
+    color: #183D3D;
+}
+.kon{
+    margin-top: 50px;
+    width: 30%;
+
+}
+
+.images{
+    width: 30%;
+    float : left;
+    margin: 15px;
+    padding: 15px;
+    
+}
+
+hr{
+    height: 3px;
+    background-color: #607274;
+}
+
+#girl{
+    position: absolute;
+    left: 260px;
+    top: 1045px;
+    height: 500px;
+    
+}
+h5{
+    font-size: 1.700rem;
+    color: #183D3D;
+}
+    
