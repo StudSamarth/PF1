@@ -102,7 +102,7 @@ h5{
     font-size: 1.700rem;
     color: #183D3D;
 }
-@media (max-width: 500px ) {
+@media (max-width: 720px ) {
     #girl{
         display: flex;
         position: absolute;
