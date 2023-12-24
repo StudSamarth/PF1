@@ -111,6 +111,7 @@ h5{
         height: 100px;
     }
     .character{
+        display:flex;
         height: 100px;
     }
     
