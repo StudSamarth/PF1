@@ -103,6 +103,10 @@ h5{
     color: #183D3D;
 }
 @media (max-width:700px){
+    body{
+        font-size:90%;
+    }
+    
     .character{
         width: 100px;
         height: 100px;
